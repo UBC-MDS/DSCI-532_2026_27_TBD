@@ -5,14 +5,14 @@
 > **Our role:** Data Science Consultancy Firm
 > **Target audience:** Supply Chain Managers for Beauty Retailers
 >
-> In many industries, such as the Beauty retail industry, it is important to monitor the flow of goods and services going in and out of organizations. When a supply chain is inefficient, there are quality control issues, overstocking/understocking, excessive costs etc. Monitoring these factors would allow companies to optimize their management resulting in more efficiency such as minimizing costs and maximizing profits. To make this possible, we propose to build a data visualization app that allows supply chain managers to identify revenue generated based on product categories, number of products sold, customer demographics etc. These different factors would allow retailers, specifically Beauty Retailers with decision making on what type of products they should be focusing on based on which products perform well and also identifying areas where they can improve upon or cut costs with the motivation to generate more profit and improve customer satisfaction.
+> In many industries, such as the Beauty retail industry, it is important to monitor the flow of goods and services going in and out of organizations. When a supply chain is inefficient, there are quality control issues, overstocking/understocking, excessive costs etc. Monitoring these factors would allow companies to optimize their management resulting in more efficiency such as minimizing costs and maximizing profits. To make this possible, we propose to build a data visualization app that allows supply chain managers to identify revenue generated based on product categories, number of products sold, customer demographics etc. These different factors would allow retailers, specifically Beauty Retailers to make meaningful business decisions based on which products perform well and also identifying areas where they can improve upon or cut costs with the motivation to generate more profit and improve customer satisfaction.
 
 ## Section 2: Description of the Data
 
-> We will be visualizing a dataset of 100 records from a Fashion and Beauty startup with 24 different variables that contain the following supply chain information, which we hypothesize could be helpful for improving supply chain efficiency:
+> We will be visualizing a dataset of 100 records from a Fashion and Beauty startup with 24 different variables that contain the following supply chain information, which we hypothesize could be helpful for improving supply chain efficiency. This dataset contains a mix of numeric and categorical variables, allowing us to create a wide variety of visualizations depending on the information we want to convey per visualization. The categories include:
 >
 > - Categories (`Product type`, `Customer Demographics`, `Location`, `Supplier Name`)
-> - Prices and Expenses (`Price`, `Costs`, `Revenue Generated` etc)
+> - Prices and Expenses (`Price`, `Costs`, `Revenue Generated` etc.)
 > - Product Movement (`Availability`, `Number of Products sold`, `Stock levels`)
 > - Quality Control (`Inspection Results`, `Defect rates`)
 >
