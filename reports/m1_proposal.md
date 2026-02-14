@@ -68,3 +68,7 @@
 Below is a sketch of what the dashboard could look like with a first draft of the metrics we want to include:
 
 ![Sketch](../img/sketch.png "App Sketch")
+
+At a high level, the layout of the dashboard aims to provide a supply chain manager with key insights across the business. There are visualizations for a high level of how the business is doing overall (e.g. Map of route coverage across India, Defect rate per SKU and best sellers), as well as more intricate visualizations where actionable insights can be derived from. For example, a manager might see from the customer demographic visualization that there is a missed opportunity to market the fashion/beauty products to an untapped market. Filters have also been set for a few of the metric to allow for managers to drill down into the specifics of the root cause of an issue/missed opportunity.
+
+The layout of the dashboard aims to keep the high-level summary visualizations together, and smaller, more detailed visualizations clustered together.
